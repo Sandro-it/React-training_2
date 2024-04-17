@@ -1,0 +1,11 @@
+.Online {
+  color: chartreuse;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.Offline {
+  color: rgb(224, 19, 12);
+  font-size: 20px;
+  font-weight: 400;
+}
